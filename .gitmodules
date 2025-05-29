@@ -1,0 +1,6 @@
+[submodule "weareenigma-next"]
+	path = weareenigma-next
+	url = https://github.com/hitesh-bhardwaj/weareenigma-next.git
+[submodule "weareenigma-studio"]
+	path = weareenigma-studio
+	url = https://github.com/hitesh-bhardwaj/weareenigma-studio.git
